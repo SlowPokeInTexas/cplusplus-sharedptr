@@ -6,5 +6,5 @@ by reference in a multi-threaded program.
 It uses the [Clang ThreadSanitizer](https://clang.llvm.org/docs/ThreadSanitizer.html).
 
 On Fedora this can be installed via 
-`sudo dnf install libtsan
+`sudo dnf install libtsan`
 
